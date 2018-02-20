@@ -1,0 +1,34 @@
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe.config
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Properties.Resources.resources
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.pdb
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.exe
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.pdb
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Aritmetica_op.resources
+C:\Users\usuario\Desktop\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Menu_Ppal.resources
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe.config
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.pdb
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csprojResolveAssemblyReference.cache
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Aritmetica_op.resources
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Menu_Ppal.resources
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Properties.Resources.resources
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.GenerateResource.Cache
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.CoreCompileInputs.cache
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.exe
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.pdb
+E:\Documentos\Google Drive\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.contacto.resources
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe.config
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.pdb
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csprojResolveAssemblyReference.cache
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Aritmetica_op.resources
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.contacto.resources
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Menu_Ppal.resources
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Properties.Resources.resources
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.GenerateResource.Cache
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.exe
+C:\Users\victo\OneDrive\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.pdb
