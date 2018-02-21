@@ -55,10 +55,9 @@
             // button_trigonometria
             // 
             this.button_trigonometria.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.button_trigonometria.Location = new System.Drawing.Point(632, 41);
-            this.button_trigonometria.Margin = new System.Windows.Forms.Padding(4);
+            this.button_trigonometria.Location = new System.Drawing.Point(474, 33);
             this.button_trigonometria.Name = "button_trigonometria";
-            this.button_trigonometria.Size = new System.Drawing.Size(120, 75);
+            this.button_trigonometria.Size = new System.Drawing.Size(90, 61);
             this.button_trigonometria.TabIndex = 12;
             this.button_trigonometria.Text = "Trigonometría";
             this.button_trigonometria.UseVisualStyleBackColor = true;
@@ -67,10 +66,9 @@
             // button_estadistica
             // 
             this.button_estadistica.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.button_estadistica.Location = new System.Drawing.Point(513, 41);
-            this.button_estadistica.Margin = new System.Windows.Forms.Padding(4);
+            this.button_estadistica.Location = new System.Drawing.Point(385, 33);
             this.button_estadistica.Name = "button_estadistica";
-            this.button_estadistica.Size = new System.Drawing.Size(120, 75);
+            this.button_estadistica.Size = new System.Drawing.Size(90, 61);
             this.button_estadistica.TabIndex = 11;
             this.button_estadistica.Text = "Estadística \r\ny\r\nprobabilidad";
             this.button_estadistica.UseVisualStyleBackColor = true;
@@ -79,10 +77,9 @@
             // button_calculo
             // 
             this.button_calculo.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.button_calculo.Location = new System.Drawing.Point(394, 41);
-            this.button_calculo.Margin = new System.Windows.Forms.Padding(4);
+            this.button_calculo.Location = new System.Drawing.Point(296, 33);
             this.button_calculo.Name = "button_calculo";
-            this.button_calculo.Size = new System.Drawing.Size(120, 75);
+            this.button_calculo.Size = new System.Drawing.Size(90, 61);
             this.button_calculo.TabIndex = 10;
             this.button_calculo.Text = "Cálculo";
             this.button_calculo.UseVisualStyleBackColor = true;
@@ -91,10 +88,9 @@
             // button_geometria
             // 
             this.button_geometria.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.button_geometria.Location = new System.Drawing.Point(275, 41);
-            this.button_geometria.Margin = new System.Windows.Forms.Padding(4);
+            this.button_geometria.Location = new System.Drawing.Point(206, 33);
             this.button_geometria.Name = "button_geometria";
-            this.button_geometria.Size = new System.Drawing.Size(120, 75);
+            this.button_geometria.Size = new System.Drawing.Size(90, 61);
             this.button_geometria.TabIndex = 9;
             this.button_geometria.Text = "Geometría";
             this.button_geometria.UseVisualStyleBackColor = true;
@@ -103,10 +99,9 @@
             // button_aritmetica
             // 
             this.button_aritmetica.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.button_aritmetica.Location = new System.Drawing.Point(37, 41);
-            this.button_aritmetica.Margin = new System.Windows.Forms.Padding(4);
+            this.button_aritmetica.Location = new System.Drawing.Point(28, 33);
             this.button_aritmetica.Name = "button_aritmetica";
-            this.button_aritmetica.Size = new System.Drawing.Size(120, 75);
+            this.button_aritmetica.Size = new System.Drawing.Size(90, 61);
             this.button_aritmetica.TabIndex = 8;
             this.button_aritmetica.Text = "Aritmética";
             this.button_aritmetica.UseVisualStyleBackColor = true;
@@ -116,10 +111,9 @@
             // button_algebra
             // 
             this.button_algebra.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.button_algebra.Location = new System.Drawing.Point(156, 41);
-            this.button_algebra.Margin = new System.Windows.Forms.Padding(4);
+            this.button_algebra.Location = new System.Drawing.Point(117, 33);
             this.button_algebra.Name = "button_algebra";
-            this.button_algebra.Size = new System.Drawing.Size(120, 75);
+            this.button_algebra.Size = new System.Drawing.Size(90, 61);
             this.button_algebra.TabIndex = 7;
             this.button_algebra.Text = "Álgebra";
             this.button_algebra.UseVisualStyleBackColor = true;
@@ -134,29 +128,28 @@
             this.button_salir});
             this.MenuStrip1.Location = new System.Drawing.Point(0, 0);
             this.MenuStrip1.Name = "MenuStrip1";
-            this.MenuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
-            this.MenuStrip1.Size = new System.Drawing.Size(1920, 28);
+            this.MenuStrip1.Size = new System.Drawing.Size(1028, 24);
             this.MenuStrip1.TabIndex = 13;
             this.MenuStrip1.Text = "MenuStrip1";
             // 
             // button_inicio
             // 
             this.button_inicio.Name = "button_inicio";
-            this.button_inicio.Size = new System.Drawing.Size(57, 24);
+            this.button_inicio.Size = new System.Drawing.Size(48, 20);
             this.button_inicio.Text = "Inicio";
             this.button_inicio.Click += new System.EventHandler(this.button_inicio_Click);
             // 
             // button_contacta
             // 
             this.button_contacta.Name = "button_contacta";
-            this.button_contacta.Size = new System.Drawing.Size(81, 24);
+            this.button_contacta.Size = new System.Drawing.Size(68, 20);
             this.button_contacta.Text = "Contacto";
             this.button_contacta.Click += new System.EventHandler(this.button_contacta_Click);
             // 
             // button_salir
             // 
             this.button_salir.Name = "button_salir";
-            this.button_salir.Size = new System.Drawing.Size(50, 24);
+            this.button_salir.Size = new System.Drawing.Size(41, 20);
             this.button_salir.Text = "Salir";
             this.button_salir.Click += new System.EventHandler(this.button_salir_Click);
             // 
@@ -165,10 +158,9 @@
             this.picture1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picture1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("picture1.BackgroundImage")));
             this.picture1.Image = ((System.Drawing.Image)(resources.GetObject("picture1.Image")));
-            this.picture1.Location = new System.Drawing.Point(30, 154);
-            this.picture1.Margin = new System.Windows.Forms.Padding(4);
+            this.picture1.Location = new System.Drawing.Point(22, 125);
             this.picture1.Name = "picture1";
-            this.picture1.Size = new System.Drawing.Size(239, 156);
+            this.picture1.Size = new System.Drawing.Size(179, 127);
             this.picture1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picture1.TabIndex = 14;
             this.picture1.TabStop = false;
@@ -179,10 +171,9 @@
             // 
             this.picture2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picture2.Image = ((System.Drawing.Image)(resources.GetObject("picture2.Image")));
-            this.picture2.Location = new System.Drawing.Point(277, 154);
-            this.picture2.Margin = new System.Windows.Forms.Padding(4);
+            this.picture2.Location = new System.Drawing.Point(208, 125);
             this.picture2.Name = "picture2";
-            this.picture2.Size = new System.Drawing.Size(239, 156);
+            this.picture2.Size = new System.Drawing.Size(179, 127);
             this.picture2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picture2.TabIndex = 15;
             this.picture2.TabStop = false;
@@ -193,10 +184,9 @@
             // 
             this.picture3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picture3.Image = ((System.Drawing.Image)(resources.GetObject("picture3.Image")));
-            this.picture3.Location = new System.Drawing.Point(523, 154);
-            this.picture3.Margin = new System.Windows.Forms.Padding(4);
+            this.picture3.Location = new System.Drawing.Point(392, 125);
             this.picture3.Name = "picture3";
-            this.picture3.Size = new System.Drawing.Size(239, 156);
+            this.picture3.Size = new System.Drawing.Size(179, 127);
             this.picture3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picture3.TabIndex = 16;
             this.picture3.TabStop = false;
@@ -207,10 +197,9 @@
             // 
             this.picture4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picture4.Image = ((System.Drawing.Image)(resources.GetObject("picture4.Image")));
-            this.picture4.Location = new System.Drawing.Point(147, 319);
-            this.picture4.Margin = new System.Windows.Forms.Padding(4);
+            this.picture4.Location = new System.Drawing.Point(110, 259);
             this.picture4.Name = "picture4";
-            this.picture4.Size = new System.Drawing.Size(239, 155);
+            this.picture4.Size = new System.Drawing.Size(179, 126);
             this.picture4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picture4.TabIndex = 17;
             this.picture4.TabStop = false;
@@ -221,10 +210,9 @@
             // 
             this.picture5.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picture5.Image = ((System.Drawing.Image)(resources.GetObject("picture5.Image")));
-            this.picture5.Location = new System.Drawing.Point(394, 318);
-            this.picture5.Margin = new System.Windows.Forms.Padding(4);
+            this.picture5.Location = new System.Drawing.Point(296, 258);
             this.picture5.Name = "picture5";
-            this.picture5.Size = new System.Drawing.Size(239, 156);
+            this.picture5.Size = new System.Drawing.Size(179, 127);
             this.picture5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picture5.TabIndex = 18;
             this.picture5.TabStop = false;
@@ -233,10 +221,10 @@
             // 
             // Menu_Ppal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(1920, 1030);
+            this.ClientSize = new System.Drawing.Size(1028, 609);
             this.Controls.Add(this.picture5);
             this.Controls.Add(this.picture4);
             this.Controls.Add(this.picture3);
@@ -249,8 +237,7 @@
             this.Controls.Add(this.button_aritmetica);
             this.Controls.Add(this.button_algebra);
             this.Controls.Add(this.MenuStrip1);
-            this.Margin = new System.Windows.Forms.Padding(4);
-            this.MinimumSize = new System.Drawing.Size(800, 600);
+            this.MinimumSize = new System.Drawing.Size(604, 495);
             this.Name = "Menu_Ppal";
             this.Text = "EasyMaths 0.1";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

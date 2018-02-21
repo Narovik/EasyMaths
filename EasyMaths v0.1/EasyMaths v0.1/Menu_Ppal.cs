@@ -20,8 +20,8 @@ namespace EasyMaths_v0._1
             int x = System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Width;
             int y = System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Height;
             this.ClientSize = new System.Drawing.Size(x, y);
-            double X=  1.5*(x / 800);
-            double Y = 1.5*(y / 600);
+            double X= (1.5*x/1366) * (x / 800);
+            double Y = (1.5*y / 768) * (y / 600);
 
             //Position elements on screen
             this.picture1.Location = new System.Drawing.Point((int)(30*X), (int)(154*Y));
@@ -38,6 +38,24 @@ namespace EasyMaths_v0._1
 
             this.picture5.Location = new System.Drawing.Point((int)(394 * X), (int)(318 * Y));
             this.picture5.Size = new System.Drawing.Size((int)(239 * X), (int)(156 * Y));
+
+            this.button_trigonometria.Location = new System.Drawing.Point((int)(474 * X),(int) (33 * Y));
+            this.button_trigonometria.Size = new System.Drawing.Size((int)(90 * X), (int)(61 * Y));
+
+            this.button_estadistica.Location = new System.Drawing.Point((int)(385 * X), (int)(33 * Y));
+            this.button_estadistica.Size = new System.Drawing.Size((int)(90 * X), (int)(61 * Y));
+
+            this.button_calculo.Location = new System.Drawing.Point((int)(296 * X), (int)(33 * Y));
+            this.button_calculo.Size = new System.Drawing.Size((int)(90 * X), (int)(61 * Y));
+
+            this.button_geometria.Location = new System.Drawing.Point((int)(206 * X), (int)(33 * Y));
+            this.button_geometria.Size = new System.Drawing.Size((int)(90 * X), (int)(61 * Y));
+
+            this.button_aritmetica.Location = new System.Drawing.Point((int)(28 * X), (int)(33 * Y));
+            this.button_aritmetica.Size = new System.Drawing.Size((int)(90 * X), (int)(61 * Y));
+
+            this.button_algebra.Location = new System.Drawing.Point((int)(117 * X), (int)(33 * Y));
+            this.button_algebra.Size = new System.Drawing.Size((int)(90 * X), (int)(61 * Y));
         }
 
         private void button_aritmetica_Click(object sender, EventArgs e)
