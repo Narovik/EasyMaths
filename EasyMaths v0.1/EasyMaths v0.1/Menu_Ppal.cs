@@ -16,11 +16,14 @@ namespace EasyMaths_v0._1
         public Menu_Ppal()
         {
             InitializeComponent();
+            //Get current user's screen resolution
             int x = System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Width;
             int y = System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Height;
             this.ClientSize = new System.Drawing.Size(x, y);
             double X=  1.5*(x / 800);
             double Y = 1.5*(y / 600);
+
+            //Position elements on screen
             this.picture1.Location = new System.Drawing.Point((int)(30*X), (int)(154*Y));
             this.picture1.Size = new System.Drawing.Size((int)(239 * X), (int)(156 * Y));
 
