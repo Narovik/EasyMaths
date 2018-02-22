@@ -36,7 +36,6 @@ C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.pdb
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csprojResolveAssemblyReference.cache
-C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Aritmetica_op.resources
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.contacto.resources
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Menu_Ppal.resources
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Properties.Resources.resources
@@ -56,3 +55,7 @@ C:\Users\angel\Desktop\EasyMaths-master\EasyMaths-master\EasyMaths v0.1\EasyMath
 C:\Users\angel\Desktop\EasyMaths-master\EasyMaths-master\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.CoreCompileInputs.cache
 C:\Users\angel\Desktop\EasyMaths-master\EasyMaths-master\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.exe
 C:\Users\angel\Desktop\EasyMaths-master\EasyMaths-master\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.pdb
+C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Submenu_OpBasicas.resources
+C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\ca\EasyMaths v0.1.resources.dll
+C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Menu_Ppal.ca.resources
+C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\ca\EasyMaths v0.1.resources.dll

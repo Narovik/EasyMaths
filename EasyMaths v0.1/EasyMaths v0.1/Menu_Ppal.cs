@@ -135,7 +135,7 @@ namespace EasyMaths_v0._1
             switch(id_menu)
             {
                 case 1:
-                    Aritmetica_op op = new Aritmetica_op();
+                    Submenu_OpBasicas op = new Submenu_OpBasicas();
                     op.Show();
                     break;
                 
