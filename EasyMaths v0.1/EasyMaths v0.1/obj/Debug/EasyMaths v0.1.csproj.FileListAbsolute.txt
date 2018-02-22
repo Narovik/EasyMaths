@@ -59,3 +59,21 @@ C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\ca\EasyMaths v0.1.resources.dll
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Menu_Ppal.ca.resources
 C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\ca\EasyMaths v0.1.resources.dll
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe.config
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.exe
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\EasyMaths v0.1.pdb
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\ca\EasyMaths v0.1.resources.dll
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csprojResolveAssemblyReference.cache
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Submenu_OpBasicas.resources
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.contacto.resources
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Menu_Ppal.resources
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Properties.Resources.resources
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths_v0._1.Menu_Ppal.ca.resources
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.GenerateResource.Cache
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.CoreCompileInputs.cache
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\ca\EasyMaths v0.1.resources.dll
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.exe
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.pdb
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\MathNet.Numerics.dll
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\MathParser.org-mXparser.Net45.dll
+E:\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\MathNet.Numerics.xml

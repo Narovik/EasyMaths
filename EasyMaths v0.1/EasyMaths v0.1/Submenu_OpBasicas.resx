@@ -117,49 +117,53 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="comboBox1.Items" xml:space="preserve">
+  <data name="Combobox_1.Items" xml:space="preserve">
     <value>Herramientas</value>
   </data>
-  <data name="comboBox1.Items1" xml:space="preserve">
-    <value>Suma</value>
+  <data name="Combobox_1.Items1" xml:space="preserve">
+    <value>Suma/Resta</value>
   </data>
-  <data name="comboBox1.Items2" xml:space="preserve">
-    <value>Resta</value>
-  </data>
-  <data name="comboBox1.Items3" xml:space="preserve">
+  <data name="Combobox_1.Items2" xml:space="preserve">
     <value>Multiplicación</value>
   </data>
-  <data name="comboBox1.Items4" xml:space="preserve">
+  <data name="Combobox_1.Items3" xml:space="preserve">
     <value>División</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 23</value>
+  <data name="Combobox_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 19</value>
   </data>
-  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 24</value>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Combobox_1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="Combobox_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 21</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
+  <data name="Combobox_1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
-    <value>comboBox1</value>
+  <data name="&gt;&gt;Combobox_1.Name" xml:space="preserve">
+    <value>Combobox_1</value>
   </data>
-  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
+  <data name="&gt;&gt;Combobox_1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Combobox_1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;Combobox_1.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
   <data name="textBox_input.Location" type="System.Drawing.Point, System.Drawing">
-    <value>149, 25</value>
+    <value>112, 20</value>
+  </data>
+  <data name="textBox_input.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="textBox_input.Size" type="System.Drawing.Size, System.Drawing">
-    <value>561, 22</value>
+    <value>422, 20</value>
   </data>
   <data name="textBox_input.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -177,10 +181,13 @@
     <value>2</value>
   </data>
   <data name="button_solve.Location" type="System.Drawing.Point, System.Drawing">
-    <value>727, 23</value>
+    <value>545, 19</value>
+  </data>
+  <data name="button_solve.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="button_solve.Size" type="System.Drawing.Size, System.Drawing">
-    <value>76, 24</value>
+    <value>57, 20</value>
   </data>
   <data name="button_solve.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -207,16 +214,25 @@
     <value>Calibri, 48pt</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>283, 123</value>
+    <value>212, 100</value>
+  </data>
+  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="label1.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>137, 97</value>
+    <value>109, 78</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Op</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopRight</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -234,14 +250,10 @@
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 16</value>
+    <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>899, 431</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>674, 350</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Artimética -&gt; Operaciones básicas</value>
