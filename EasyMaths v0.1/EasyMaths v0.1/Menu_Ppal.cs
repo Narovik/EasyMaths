@@ -20,8 +20,8 @@ namespace EasyMaths_v0._1
             int x = System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Width;
             int y = System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Height;
             this.ClientSize = new System.Drawing.Size(x, y);
-            double X= (1.5*x/1366) * (x / 800);
-            double Y = (1.5*y / 768) * (y / 600);
+            double X= 1.2* (x / 800);
+            double Y = 1.5* (y / 600);
 
             //Position elements on screen
             this.picture1.Location = new System.Drawing.Point((int)(30*X), (int)(154*Y));

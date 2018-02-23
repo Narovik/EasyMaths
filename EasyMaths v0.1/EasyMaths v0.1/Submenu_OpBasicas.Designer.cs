@@ -77,6 +77,7 @@
             this.Controls.Add(this.textBox_input);
             this.Controls.Add(this.Combobox_1);
             this.Name = "Submenu_OpBasicas";
+            this.Load += new System.EventHandler(this.Submenu_OpBasicas_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
