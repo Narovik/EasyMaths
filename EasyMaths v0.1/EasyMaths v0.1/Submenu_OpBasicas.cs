@@ -37,14 +37,22 @@ namespace EasyMaths_v0._1
         private void button_solve_Click(object sender, EventArgs e)
         {
 
-            // switch(Combobox_1.) ...
-            string input = textBox_input.Text;
-            string input_parsed = input.Replace('+', '\n');
+            switch (Combobox_1.Text)
+            {
+                case "Herramientas":
+                    label1.Text = "Selecciona herramienta!";
+                    break;
 
-            //Expression is mxparser type
-            Expression calculo = new Expression(input);
+                case "Suma/Resta":
+                    string input = textBox_input.Text;
+                    string input_parsed = input.Replace('+', '\n');
+                    input_parsed = input_parsed.Replace('-', '\n');
+                    //Expression is mxparser type
+                    Expression calculo = new Expression(input);
 
-            label1.Text = string.Concat(input_parsed, "\n--------\n", (calculo.calculate().ToString()));
+                    label1.Text = string.Concat(input_parsed, "\n--------\n", (calculo.calculate().ToString()));
+                    break;
+            }
         }
     }
 }
