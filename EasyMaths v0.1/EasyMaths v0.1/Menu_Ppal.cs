@@ -120,7 +120,7 @@ namespace EasyMaths_v0._1
 
         private void button_salir_Click(object sender, EventArgs e)
         {
-            if(MessageBox.Show(null,"Desea salir de EasyMaths?","prueba",MessageBoxButtons.YesNo)==DialogResult.Yes){
+            if(MessageBox.Show(null,"Desea salir de EasyMaths?","Salir",MessageBoxButtons.YesNo)==DialogResult.Yes){
                 this.Close();
             }
         }

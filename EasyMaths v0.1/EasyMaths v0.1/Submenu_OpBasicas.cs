@@ -19,14 +19,10 @@ namespace EasyMaths_v0._1
             Combobox_1.SelectedIndex = 0;
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void comboBox1_SelectedIndexChanged_1(object sender, EventArgs e)
         {
-
+            if (Combobox_1.Text != "Herramientas")
+                label1.Text = "Introduce operación";
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -37,12 +33,9 @@ namespace EasyMaths_v0._1
         private void button_solve_Click(object sender, EventArgs e)
         {
 
+
             switch (Combobox_1.Text)
             {
-                case "Herramientas":
-                    label1.Text = "Selecciona\nherramienta!";
-                    break;
-
                 case "Suma/Resta":
 
                     string input = textBox_input.Text;
