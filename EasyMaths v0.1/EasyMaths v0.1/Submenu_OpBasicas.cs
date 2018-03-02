@@ -81,8 +81,14 @@ namespace EasyMaths_v0._1
                             case "+":
                             case "-":
                                 cont++;
-                                if (TieneDecimal)
-                                    operandodecimal.Add(input.Substring(inicio, (i - inicio) - 1));
+                                if (TieneDecimal) { 
+                                operandodecimal.Add(input.Substring(inicio, (i - inicio) - 1));
+                                }
+                                else
+                                {
+                                    operandodecimal.Add("0");
+                                }
+                                
                                 inicio = i + 1;
                                 break;
                         }
