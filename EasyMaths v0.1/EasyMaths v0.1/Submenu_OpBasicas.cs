@@ -32,26 +32,45 @@ namespace EasyMaths_v0._1
 
         private void button_solve_Click(object sender, EventArgs e)
         {
-
+            string input = textBox_input.Text;
+            int cont = 1;
+            string input_parsed;
+            Expression calculo;
 
             switch (Combobox_1.Text)
             {
                 case "Suma/Resta":
 
-                    string input = textBox_input.Text;
-                    int cont = 1;
+                     input = textBox_input.Text;
+                     cont = 1;
                     for(int i=0; i < input.Length; i++)
                     {
                         if (input.Substring(i, 1) == "+" || input.Substring(i, 1) == "-") cont++;
                     }
                     label1.Font = new Font("Calibri", 96/cont, FontStyle.Regular, GraphicsUnit.Pixel);
-                    string input_parsed = input.Replace('+', '\n');
+                     input_parsed = input.Replace('+', '\n');
                     input_parsed = input_parsed.Replace('-', '\n');
                     //Expression is mxparser type
-                    Expression calculo = new Expression(input);
+                     calculo = new Expression(input);
 
                     label1.Text = string.Concat(input_parsed, "\n--------\n", (calculo.calculate().ToString()));
                     break;
+                case "Multiplicación":
+                    input = textBox_input.Text;
+                    cont = 1;
+                    for (int i = 0; i < input.Length; i++)
+                    {
+                        if (input.Substring(i, 1) == "*" ) cont++;
+                    }
+                    label1.Font = new Font("Calibri", 96 / cont, FontStyle.Regular, GraphicsUnit.Pixel);
+                    input_parsed = input.Replace('+', '\n');
+                    input_parsed = input_parsed.Replace('-', '\n');
+                    //Expression is mxparser type
+                    calculo = new Expression(input);
+
+                    label1.Text = string.Concat(input_parsed, "\n--------\n", (calculo.calculate().ToString()));
+                    break;
+
             }
         }
 
