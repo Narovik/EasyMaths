@@ -102,7 +102,7 @@ namespace EasyMaths_v0._1
 
                     for(int j=0;j< operandoreal.Count; j++)
                     {   
-
+                        
                     }
                     for (int j = 0; j < operandodecimal.Count; j++)
                     {
