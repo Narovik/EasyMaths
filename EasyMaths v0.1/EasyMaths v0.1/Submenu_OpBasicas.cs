@@ -70,7 +70,7 @@ namespace EasyMaths_v0._1
                     int i ;
                     for (i = 0; i < input.Length; i++)
                     {
-                        switch (input.Substring(i, 1)
+                        switch (input.Substring(i, 1))
                         {
                             case ".":
                                 operandoreal.Add(input.Substring(inicio, (i - inicio) - 1));
@@ -89,10 +89,8 @@ namespace EasyMaths_v0._1
                     }
 
 
-                    if (TieneDecimal)
-                    {
-                        operandodecimal.Add(input.Substring(inicio, (i - inicio)));
-                    }
+                    if (TieneDecimal) operandodecimal.Add(input.Substring(inicio, (i - inicio)));
+                    
 
                     String muestrareal, muestradecimal;
 
@@ -109,10 +107,10 @@ namespace EasyMaths_v0._1
                 case "Multiplicación":
                     input = textBox_input.Text;
                     cont = 1;
-                    for (int i = 0; i < input.Length; i++)
-                    {
-                        if (input.Substring(i, 1) == "*" ) cont++;
-                    }
+                    for (int j = 0; j < input.Length; j++)
+                        if (input.Substring(j, 1) == "*" )
+                            cont++;
+                    
                     label1.Font = new Font("Calibri", 96 / cont, FontStyle.Regular, GraphicsUnit.Pixel);
                     input_parsed = input.Replace('*', '\n');
                     input_parsed = input_parsed.Replace('x', '\n');
