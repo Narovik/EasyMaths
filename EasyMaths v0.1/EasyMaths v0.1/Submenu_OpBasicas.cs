@@ -63,8 +63,9 @@ namespace EasyMaths_v0._1
                         if (input.Substring(i, 1) == "*" ) cont++;
                     }
                     label1.Font = new Font("Calibri", 96 / cont, FontStyle.Regular, GraphicsUnit.Pixel);
-                    input_parsed = input.Replace('+', '\n');
-                    input_parsed = input_parsed.Replace('-', '\n');
+                    input_parsed = input.Replace('*', '\n');
+                    input_parsed = input_parsed.Replace('x', '\n');
+
                     //Expression is mxparser type
                     calculo = new Expression(input);
 
