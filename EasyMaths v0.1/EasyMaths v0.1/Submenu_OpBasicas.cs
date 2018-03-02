@@ -66,29 +66,30 @@ namespace EasyMaths_v0._1
                     ArrayList operandoreal, operandodecimal;
                     operandoreal = new ArrayList();
                     operandodecimal = new ArrayList();
-                    bool deci = false;
+                    bool TieneDecimal = false;
                     int i ;
-                    for ( i=0; i < input.Length; i++)
-                    {   if (input.Substring(i, 1) == "+" || input.Substring(i, 1) == "-" || input.Substring(i, 1) == ".")
-                        {   
-                            if(input.Substring(i, 1) == ".")
-                            {
+                    for (i = 0; i < input.Length; i++)
+                    {
+                        switch (input.Substring(i, 1)
+                        {
+                            case ".":
                                 operandoreal.Add(input.Substring(inicio, (i - inicio) - 1));
-                                deci = true;
-                            }
-                            else if (input.Substring(i, 1) == "+" || input.Substring(i, 1) == "-")
-                            {
+                                TieneDecimal = true;
+                                inicio = i + 1;
+                                break;
+
+                            case "+":
+                            case "-":
                                 cont++;
-                                if (deci) {
+                                if (TieneDecimal)
                                     operandodecimal.Add(input.Substring(inicio, (i - inicio) - 1));
-                                    deci = false;
-                                }
-                            }
-                            inicio = i+1;
+                                inicio = i + 1;
+                                break;
                         }
-                       
                     }
-                    if (deci)
+
+
+                    if (TieneDecimal)
                     {
                         operandodecimal.Add(input.Substring(inicio, (i - inicio)));
                     }
