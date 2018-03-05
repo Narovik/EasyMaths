@@ -73,7 +73,7 @@ namespace EasyMaths_v0._1
                         switch (input.Substring(i, 1))
                         {
                             case ".":
-                                operandoreal.Add(input.Substring(inicio, (i - inicio) - 1));
+                                operandoreal.Add(input.Substring(inicio, (i - inicio) ));
                                 TieneDecimal = true;
                                 inicio = i + 1;
                                 break;
@@ -82,7 +82,7 @@ namespace EasyMaths_v0._1
                             case "-":
                                 cont++;
                                 if (TieneDecimal) { 
-                                operandodecimal.Add(input.Substring(inicio, (i - inicio) - 1));
+                                operandodecimal.Add("."+input.Substring(inicio, (i - inicio) ));
                                 }
                                 else
                                 {
@@ -96,9 +96,9 @@ namespace EasyMaths_v0._1
 
 
                     if (TieneDecimal)
-                        operandodecimal.Add(input.Substring(inicio, (i - inicio)));
+                        operandodecimal.Add("." + input.Substring(inicio, (i - inicio)));
                     else
-                        operandoreal.Add(input.Substring(inicio, (i - inicio) - 1));
+                        operandoreal.Add(input.Substring(inicio, (i - inicio)));
 
                     String muestrareal = "";
                     String muestradecimal = "";
@@ -112,8 +112,8 @@ namespace EasyMaths_v0._1
                     {
                         muestradecimal = muestradecimal + "\n" + operandodecimal[j];
                     }
-
-                    label2.Text = muestrareal;
+                    
+                    label1.Text = muestrareal;
                     label3.Text = muestradecimal;
                     break;
 
