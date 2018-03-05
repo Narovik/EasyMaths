@@ -102,3 +102,4 @@ E:\Documentos\GitHub\EasyMaths\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug
 E:\Documentos\GitHub\EasyMaths\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.GenerateResource.Cache
 E:\Documentos\GitHub\EasyMaths\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.csproj.CoreCompileInputs.cache
 E:\Documentos\GitHub\EasyMaths\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\obj\Debug\EasyMaths v0.1.pdb
+C:\Users\victo\OneDrive\Documentos\GitHub\EasyMaths\EasyMaths v0.1\EasyMaths v0.1\bin\Debug\MathParser.org-mXparser.Net45.dll

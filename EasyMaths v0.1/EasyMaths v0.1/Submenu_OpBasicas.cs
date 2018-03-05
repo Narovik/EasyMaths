@@ -95,19 +95,26 @@ namespace EasyMaths_v0._1
                     }
 
 
-                    if (TieneDecimal) operandodecimal.Add(input.Substring(inicio, (i - inicio)));
+                    if (TieneDecimal)
+                        operandodecimal.Add(input.Substring(inicio, (i - inicio)));
+                    else
+                        operandoreal.Add(input.Substring(inicio, (i - inicio) - 1));
+
+                    String muestrareal = "";
+                    String muestradecimal = "";
                     
 
-                    String muestrareal, muestradecimal;
-
-                    for(int j=0;j< operandoreal.Count; j++)
-                    {   
-                        
-                    }
-                    for (int j = 0; j < operandodecimal.Count; j++)
+                    for(int j=0; j < operandoreal.Count; j++)
                     {
-
+                        muestrareal = muestrareal+"\n" + operandoreal[j];
                     }
+                    for (int j=0; j < operandodecimal.Count; j++)
+                    {
+                        muestradecimal = muestradecimal + "\n" + operandodecimal[j];
+                    }
+
+                    label2.Text = muestrareal;
+                    label3.Text = muestradecimal;
                     break;
 
                 case "Multiplicación":
@@ -131,6 +138,11 @@ namespace EasyMaths_v0._1
         }
 
         private void Submenu_OpBasicas_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }
