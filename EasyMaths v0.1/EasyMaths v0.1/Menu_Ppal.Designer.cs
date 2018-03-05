@@ -101,55 +101,55 @@
             // 
             // MenuStrip1
             // 
-            resources.ApplyResources(this.MenuStrip1, "MenuStrip1");
             this.MenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.MenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.button_inicio,
             this.button_contacta,
             this.languageToolStripMenuItem,
             this.button_salir});
+            resources.ApplyResources(this.MenuStrip1, "MenuStrip1");
             this.MenuStrip1.Name = "MenuStrip1";
             // 
             // button_inicio
             // 
-            resources.ApplyResources(this.button_inicio, "button_inicio");
             this.button_inicio.Name = "button_inicio";
+            resources.ApplyResources(this.button_inicio, "button_inicio");
             this.button_inicio.Click += new System.EventHandler(this.button_inicio_Click);
             // 
             // button_contacta
             // 
-            resources.ApplyResources(this.button_contacta, "button_contacta");
             this.button_contacta.Name = "button_contacta";
+            resources.ApplyResources(this.button_contacta, "button_contacta");
             this.button_contacta.Click += new System.EventHandler(this.button_contacta_Click);
             // 
             // languageToolStripMenuItem
             // 
-            resources.ApplyResources(this.languageToolStripMenuItem, "languageToolStripMenuItem");
             this.languageToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.españolToolStripMenuItem,
             this.englishToolStripMenuItem,
             this.françaisToolStripMenuItem});
             this.languageToolStripMenuItem.Name = "languageToolStripMenuItem";
+            resources.ApplyResources(this.languageToolStripMenuItem, "languageToolStripMenuItem");
             // 
             // españolToolStripMenuItem
             // 
-            resources.ApplyResources(this.españolToolStripMenuItem, "españolToolStripMenuItem");
             this.españolToolStripMenuItem.Name = "españolToolStripMenuItem";
+            resources.ApplyResources(this.españolToolStripMenuItem, "españolToolStripMenuItem");
             // 
             // englishToolStripMenuItem
             // 
-            resources.ApplyResources(this.englishToolStripMenuItem, "englishToolStripMenuItem");
             this.englishToolStripMenuItem.Name = "englishToolStripMenuItem";
+            resources.ApplyResources(this.englishToolStripMenuItem, "englishToolStripMenuItem");
             // 
             // françaisToolStripMenuItem
             // 
-            resources.ApplyResources(this.françaisToolStripMenuItem, "françaisToolStripMenuItem");
             this.françaisToolStripMenuItem.Name = "françaisToolStripMenuItem";
+            resources.ApplyResources(this.françaisToolStripMenuItem, "françaisToolStripMenuItem");
             // 
             // button_salir
             // 
-            resources.ApplyResources(this.button_salir, "button_salir");
             this.button_salir.Name = "button_salir";
+            resources.ApplyResources(this.button_salir, "button_salir");
             this.button_salir.Click += new System.EventHandler(this.button_salir_Click);
             // 
             // picture1

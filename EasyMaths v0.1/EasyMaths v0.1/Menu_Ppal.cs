@@ -132,7 +132,10 @@ namespace EasyMaths_v0._1
 
         private void picture1_Click(object sender, EventArgs e)
         {
-            switch(id_menu)
+            picture1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            System.Threading.Thread.Sleep(5);
+            picture1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            switch (id_menu)
             {
                 case 1:
                     Submenu_OpBasicas op = new Submenu_OpBasicas();

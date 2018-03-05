@@ -86,9 +86,9 @@ namespace EasyMaths_v0._1
                                 }
                                 else
                                 {
-                                    operandodecimal.Add("0");
+                                    operandodecimal.Add(".0");
                                 }
-                                
+                                TieneDecimal = false;
                                 inicio = i + 1;
                                 break;
                         }
@@ -98,8 +98,11 @@ namespace EasyMaths_v0._1
                     if (TieneDecimal)
                         operandodecimal.Add("." + input.Substring(inicio, (i - inicio)));
                     else
+                    {
                         operandoreal.Add(input.Substring(inicio, (i - inicio)));
+                        operandodecimal.Add(".0");
 
+                    }
                     String muestrareal = "";
                     String muestradecimal = "";
                     
